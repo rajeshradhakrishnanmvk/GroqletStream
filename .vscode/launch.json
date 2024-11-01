@@ -1,0 +1,19 @@
+{
+    
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "name": "Debug GroqletStream",
+            "type": "coreclr",
+            "preLaunchTask": "build (GroqletStream)",
+            "request": "launch",
+            "program": "${workspaceFolder}/bin/Debug/net8.0/GroqletStream.dll",
+            "cwd": "${workspaceFolder}",
+            "env": {
+                    "ASPNETCORE_URLS": "http://*:5129"
+                },
+        }
+
+    ]
+}
