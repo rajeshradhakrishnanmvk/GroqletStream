@@ -140,3 +140,25 @@ This enables applications to become more context-aware and responsive, providing
 Combining GroqletStream’s real-time streaming with **agentic patterns** introduces a new level of responsiveness and intelligence in .NET Core applications. With features like Action Matching and Pause and Resume, GroqletStream lets you build AI-driven applications that respond dynamically to user interactions.
 
 👉 Check out the full code and contribute here: [GroqletStream Repository](https://github.com/rajeshradhakrishnanmvk/GroqletStream/tree/main)
+
+### **Output**
+
+what is the next book to read after In a Dark, Dark Wood" by Ruth Ware ?
+
+I'm excited to help you find your next book to read! 
+
+**Thought:** This is a popular psychological thriller by Ruth Ware, known for her atmospheric and suspenseful writing style. I'll analyze the themes, style, and audience of In a Dark, Dark Wood to recommend a book that may appeal to you. 
+
+**Action:** get_books_self: I'll retrieve a list of books by authors similar to Ruth Ware, who writes psychological thrillers with a focus on suspense, atmosphere, and complex characters. 
+
+**PAUSE** 
+
+**Observation:** I've retrieved a list of books by authors who share similarities with Ruth Ware. I'll analyze the key themes and elements of each book to identify a potential match for your reading preferences. 
+
+**Action:** textual_analysis: Let's take a look at a random excerpt from The Last Time I Lied by Riley Sager: *"In an empty room, you can hear anything. Your heartbeat. The creak of the floorboards. The hum of the air conditioners. The soft rustle of fabric as someone stands up. Silence, in fact, is often the thing that can scare you the most..."* 
+
+**PAUSE** 
+
+**Observation:** Riley Sager's writing style, which often incorporates eerie atmosphere and complex characters, resonates with Ruth Ware's style. The themes of suspense, mystery, and self-discovery in The Last Time I Lied align well with the elements that made In a Dark, Dark Wood enjoyable.
+
+**Answer:** Based on your appreciation for Ruth Ware's work, I recommend **The Last Time I Lied by Riley Sager**. This psychological thriller is a great match for fans of suspenseful, atmospheric stories with complex characters, exploring themes of self-discovery and deception. Give it a try!
